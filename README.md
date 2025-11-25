@@ -4,7 +4,7 @@ This project investigates that introduction of vertical short-video user interfa
 
 ## Motivation
 
-The motivation of the project is to see that whether people consume digital products such as memes faster due to the changes in the methods of consuming those products.These days, we are consuming each physical product faster compared to past whether it is clothes, consumer electronics or foods in our daily lifes. The question whether this reflects the cultural products such as music,memes and art came to my mind when me and my friend group couldn't recall what we were laughing at on social media the week before
+The motivation of the project is to see that whether people consume digital products such as memes faster due to the changes in the methods of consuming those products.These days, we are consuming each physical product faster compared to past whether it is clothes, consumer electronics or foods in our daily lifes. The question whether this reflects the case with cultural products such as music,memes and art came to my mind when me and my friend group couldn't recall what we were laughing at on social media the week before
 
 Instagram and YouTube released their 'Reels' and 'Shorts' sections both in 2020 (Instagram on August 5th and Youtube on September 14th). These dates actually coincide with acquisiton of Musical.ly by ByteDance in order to merge it with Tiktok (2018). This was also a breaking point of the popularity of vertical short-video UI.
 https://about.instagram.com/blog/announcements/introducing-instagram-reels-announcement
@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Musical.ly#:~:text=ByteDance%20Ltd.,TikTok%20on%20
 ## Hypothesis
 
 1. Null Hypothesis: The mean of lifespan (trending weeks) of memes emerged before 2020 is the same as the mean lifespan of the memes emerged after 2020
-2. Alternative Hypothesis: The mean lifespan of memes emerged before 2020 is longer than those of memes emerged after 2020
+2. Alternative Hypothesis: The mean lifespan of memes emerged before 2020 is longer than that of memes emerged after 2020
 
 ## Data Collection
 
