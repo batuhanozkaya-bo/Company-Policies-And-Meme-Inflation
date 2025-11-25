@@ -14,8 +14,8 @@ https://en.wikipedia.org/wiki/Musical.ly#:~:text=ByteDance%20Ltd.,TikTok%20on%20
 
 ## Hypothesis
 
-Null Hypothesis: The mean of lifespan (trending weeks) of memes emerged before 2020 is the same as the mean lifespan of the memes emerged after 2020
-Alternative Hypothesis: The mean lifespan of memes emerged before 2020 is longer than those of memes emerged after 2020
+1. Null Hypothesis: The mean of lifespan (trending weeks) of memes emerged before 2020 is the same as the mean lifespan of the memes emerged after 2020
+2. Alternative Hypothesis: The mean lifespan of memes emerged before 2020 is longer than those of memes emerged after 2020
 
 ## Data Collection
 
