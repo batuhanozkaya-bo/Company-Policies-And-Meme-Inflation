@@ -39,7 +39,7 @@ https://en.wikipedia.org/wiki/Musical.ly#:~:text=ByteDance%20Ltd.,TikTok%20on%20
 
 ## Statistical Results
 
-- **P-value of the test:0.0000001116**
+- **P-value of the test: 0.0000001116**
 
 Since p-value of the test significantly less than 0.05, we can easily reject the null hypothesis. We can conclude that **The mean lifespan of memes emerged before 2020 is longer than that of memes emerged after 2020**
 
@@ -54,7 +54,7 @@ Even though dataset included 1785 different memes from different platfroms and y
 - **XGBoost R2 Score: 0.007306516280218278**
 
 
-##How To Run?
+## How To Run?
 
 1. Open Data Gathering/Data_Gathering.ipynb in order to create your csv dataset. In default version the python code fetches every 25th meme starting from the oldest one. If you want to create a larger or smaller dataset you can play with the number in the "memes_urls[::25]" part in the 3rd block of codes.
 
