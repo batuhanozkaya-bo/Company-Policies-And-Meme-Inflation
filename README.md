@@ -32,14 +32,14 @@ https://en.wikipedia.org/wiki/Musical.ly#:~:text=ByteDance%20Ltd.,TikTok%20on%20
 ## Methods and Techniques
 - **Web Scraping**
 - **Data Cleaning (handling missing values etc.)**
-- **Exploratory Data Analysis
-- **Mann-Whitney U Test
-- **Hypothesis Testing with P-value
-- **Machine Learning with Random Forest Regressor and XGBoost
+- **Exploratory Data Analysis**
+- **Mann-Whitney U Test**
+- **Hypothesis Testing with P-value**
+- **Machine Learning with Random Forest Regressor and XGBoost**
 
 ## Statistical Results
 
-- **P-value of the test: **0.0000001116
+- **P-value of the test:0.0000001116**
 
 Since p-value of the test significantly less than 0.05, we can easily reject the null hypothesis. We can conclude that **The mean lifespan of memes emerged before 2020 is longer than that of memes emerged after 2020**
 
@@ -50,7 +50,15 @@ As it can be seen on the report the data is does not show any order. Therefore, 
 
 Even though dataset included 1785 different memes from different platfroms and years, machine learning models couldn't explain the data well. Further discussion are made in the report
 
-- **Random Forest R2 score: **0.05693638134091761
-- **XGBoost R2 Score: **0.007306516280218278
+- **Random Forest R2 score: 0.05693638134091761**
+- **XGBoost R2 Score: 0.007306516280218278**
 
+
+##How To Run?
+
+1. Open Data Gathering/Data_Gathering.ipynb in order to create your csv dataset. In default version the python code fetches every 25th meme starting from the oldest one. If you want to create a larger or smaller dataset you can play with the number in the "memes_urls[::25]" part in the 3rd block of codes.
+
+2. After creating your dataset go to Exploratory_Data_Analysis_and_Hypothesis_Testing/EDA_and_Hypothesis_Testing.ipynb and run the notebook so that you can see the basic properties of your data and general visualization of the features.
+
+3. Lastly run the machine learning models on Machine_Learning/Machine_Learning.ipynb
 
