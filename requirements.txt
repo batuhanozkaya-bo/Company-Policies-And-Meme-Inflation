@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+tqdm
+pytrends
+matplotlib
+scipy
+sklearn
+xgboost
