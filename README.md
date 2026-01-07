@@ -62,3 +62,7 @@ Even though dataset included 1785 different memes from different platfroms and y
 
 3. Lastly run the machine learning models on Machine_Learning/Machine_Learning.ipynb
 
+
+
+*AI disclaimer: Genereative AI was harnessed in order to discuss machine learning model choices & success and choose suitable libraries to use in the project.*
+
